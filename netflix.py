@@ -16,9 +16,9 @@ try:
 	os.system('clear')
 	print '''%s
    _  __    __  ______
-  / |/ /__ / /_/ _/ (_)_ __    %sCoded by D4RKSH4D0WS%s
+  / |/ /__ / /_/ _/ (_)_ __    %sCoded by Hamza Al ghazawi
  /    / -_) __/ _/ / /\ \ /    %sNetflix Account Checker%s
-/_/|_/\__/\__/_//_/_//_\_\     %swa.me/628996604524
+/_/|_/\__/\__/_//_/_//_\_\     %Telegram.@okliz
 
 '''%(C1,W0,C1,W0,C1,W0)
 	for akun in open(sys.argv[1]).read().splitlines():
